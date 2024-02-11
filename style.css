@@ -1,0 +1,80 @@
+body {
+    background-color: #fffff0;
+}
+
+.navbar {
+    background-color: black;
+    border-radius: 20px;
+    margin: 30px
+}
+
+.navbar ul {
+    overflow: auto;
+
+}
+
+.navbar li {}
+
+.navbar li a {
+    float: left;
+    padding: 5px 28px;
+    margin: 10px
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.searchbox {
+    
+    
+    padding: 12px 28px;
+    float: right;
+}
+.navbar input{
+    border-radius: 20px;
+    text-align: center;
+}
+.tab table{
+float: right;
+margin-right: 30px;
+
+
+}
+.tab table th{
+    border: 1px solid black;
+    color:white;
+    background-color: black;
+
+}
+.imm img{
+    border: 1px solid red;;
+    height: 130px;
+    width: 250px;
+    margin-left:30px
+
+}
+.mar marquee {
+    display: inline-block;
+    margin-left: 30%;
+    margin-right:30%;
+    margin-bottom:9px;
+}
+hr{
+    border: 2px solid black;
+    
+}
+p{
+    text-align: justify;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
